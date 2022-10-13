@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Design Systems development with Radix and Tailwind;
 - 📫 How to reach me: contato@jimmyandrade.com;
 - 💬 Ask me about Design Systems, Storybook and... Music Production;
-- ⚡ Fun fact: I've created some characters with outstanding voices, and I like to act.
+- ⚡ Fun fact: I've created some characters with outstanding voices, and I like to act and sing.
 
 <!--
 **jimmyandrade/jimmyandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
