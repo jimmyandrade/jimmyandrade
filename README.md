@@ -8,7 +8,6 @@ I also contribute to some open-source projects like Storybook, GitHub and Commit
 
 - 🔭 I’m currently working on some projects that use React, TypeScript, Styled Components, Storybook, Jest, RTL and Cypress;
 - 🌱 I’m currently learning Design Systems development with Radix and Tailwind;
-- 📫 How to reach me: ireadyourreadme@jimmyandrade.com;
 - 💬 Ask me about Design Systems, Storybook and... Music Production;
 - ⚡ Fun fact: I'm also a musician with songs in all popular music streaming services.
 
